@@ -1,3 +1,3 @@
 # Gradient Ascents
 
-Thoughts by a data scientist and moutain/sky runner, 
+Thoughts on data science and moutain/sky running.
